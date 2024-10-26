@@ -7,7 +7,7 @@ Hello, I am an enthusiastic beginner data analyst passionate about programming a
 - **Python Programming**: I focus on creating clean and efficient code. 😄
 - **Learning New Languages**: Besides Python and JC, I also explore other programming languages. 🌱
 - **Collaborating on Projects**: I enjoy participating in new projects where I can contribute and learn from others.
-- **Of course**:, I'm trying to gain insight into Pandas, SQL, JSON...🐱‍🏍
+- **Of course**: I'm trying to gain insight into Pandas, SQL, JSON...🐱‍🏍
 
 ## Projects
 For more information about my projects, please visit [my repositories](https://github.com/JacobBersheba89?tab=repositories). 👀

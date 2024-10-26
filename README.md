@@ -16,18 +16,3 @@ If you are interested in collaborating or sharing new opportunities, please do n
 
 Thank you for visiting my profile!👋
 
-
-# Simple Python script to display Fibonacci sequence
-
-def fibonacci(n):
-    a, b = 0, 1
-    result = []
-    while len(result) < n:
-        result.append(a)
-        a, b = b, a + b
-    return result
-
-# Change the number 10 to how many Fibonacci numbers you want to generate
-fib_sequence = fibonacci(10)
-print("Fibonacci sequence:", fib_sequence)
-
